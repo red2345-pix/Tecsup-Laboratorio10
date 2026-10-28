@@ -1,0 +1,10 @@
+# Backend
+backend-lab10/venv/
+**/__pycache__/
+*.pyc
+backend-lab10/db.sqlite3
+
+# Frontend
+lab10/node_modules/
+lab10/build/
+.DS_Store
